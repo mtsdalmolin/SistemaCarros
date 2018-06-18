@@ -1,0 +1,1 @@
+void menu(Carro** listaCarros, ArvPlaca** arvorePlacas, ArvMarca** arvoreMarcas, ArvAno** arvoreAnos, bool* sair_menu);
